@@ -1,5 +1,5 @@
 body {
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
   color: rgb(92, 147, 10);
@@ -45,9 +45,11 @@ li:first-letter {
   font-size: 14px;
   line-height: 1;
   font-weight: 400;
+  font-size: 60px;
 }
 .weather-temperature .units {
-  position: relative;
+  position: static;
   font-size: 16px;
   top: -34px;
+  font-size: 40px;
 }
